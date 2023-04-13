@@ -1,23 +1,40 @@
 *{
     margin: 0;
-    max-width: 100%;
-    max-height: 2300px;
+    background-color: #D9D0BF;
+    max-height: 2500px;
+    max-width: 800px;
+    
+
+}
+header>h1{
+    position: relative;
+    text-align: center;
+    left: 552px;
 }
 #Titulo{
     text-align: center;
+    position: relative;
+    left: 552px;
 }
 p{
     text-align: center;
+    max-width: 1400px;
+    left: 552px;
+    position: relative;
+
+    
 }
 .linhacentro{
     width: 2px;
-    height: 2100px;
-    background-color:rgb(137, 137, 142);
+    height: 2000px;
+    background-color:#4F6973;
     position: relative;
-    left: 850px;
+    left: 950px;
     align-items: center;
     padding: auto;
     border-radius: 10px;
+    z-index: 11100;
+    top: 80px;
 }
 header>h1{
     text-align: center;
@@ -26,35 +43,150 @@ header>h1{
 .primeira{
     width: 500px;
     height: 500px;
-    background-color: aqua;
+    background-color: #A4A698;
     position: relative;
-    bottom: 2000px;
-    left: 300px;
-    padding: ;
+    bottom: 1900px;
+    left: 400px;
+    z-index: 111;
 }
 .segunda{
     width: 500px;
     height: 500px;
-    background-color: aqua;
+    background-color: #A4A698;
     position: relative;
-    bottom: 2000px;
-    left: 910px;
+    bottom: 1900px;
+    left: 1010px;
     margin-right: 1000px;
+    z-index: 1111;
 }
 .terceira{
     width: 500px;
     height: 500px;
-    background-color: aqua;
+    background-color: #A4A698;
     position: relative;
-    bottom: 2000px;
-    left: 300px;
-    text-align:;
+    bottom: 1900px;
+    left: 400px;
+    z-index: 111;
 }
 .quarta{
     width: 500px;
     height: 500px;
-    background-color: aqua;
+    background-color: #A4A698;
     position: relative;
-    bottom: 2000px;
-    left: 910px;
+    bottom: 1900px;
+    left: 1010px;
+    z-index: 111;
 }
+.g1{
+    position: relative;
+    bottom: 3890px;
+    z-index: 11111;
+    left: 500px;
+    background-color: #A4A698;
+    max-width: 300px;
+    font-size: 30px;
+}
+.g11{
+    position: relative;
+    bottom: 3850px;
+    z-index: 11111;
+    max-width: 300px;
+    left: 500px;
+    background-color: #A4A698;
+    font-size: 20px;
+}
+p>strong{
+    background-color: #A4A698;
+    font-size: 24px;
+}
+.g2 {
+    position: relative;
+    bottom: 3790px;
+    z-index: 11111;
+    left: 1120px;
+    background-color: #A4A698;
+    max-width: 300px;
+    font-size: 30px;
+    
+        margin:0;
+        padding:0;
+        border:0;
+    
+    
+}
+.g22{
+    position: relative;
+    bottom: 3765px;
+    z-index: 11111;
+    max-width: 350px;
+    left: 1090px;
+    background-color: #A4A698;
+    font-size: 18px;
+    margin:0;
+    padding:0;
+    border:0;
+}
+.g3{
+    position: relative;
+    bottom: 3720px;
+    z-index: 11111;
+    left: 500px;
+    background-color: #A4A698;
+    max-width: 300px;
+    font-size: 30px;
+}
+.g33{
+    position: relative;
+    bottom: 3680px;
+    z-index: 11111;
+    max-width: 400px;
+    left: 457px;
+    background-color: #A4A698;
+    font-size: 18px;
+}
+.g4 {
+    position: relative;
+    bottom: 3550px;
+    z-index: 11111;
+    left: 1010px;
+    background-color: #A4A698;
+    max-width: 500px;
+    font-size: 30px;
+    margin:0;
+    padding:0;
+    border:0;
+}
+.g44{
+    position: relative;
+    bottom: 3500px;
+    z-index: 11111;
+    max-width: 350px;
+    left: 1090px;
+    background-color: #A4A698;
+    font-size: 18px;
+    margin:0;
+    padding:0;
+    border:0;
+}
+.img1{
+    position: relative;
+    bottom: 5400px;
+    left: 1100px;
+
+}
+.img2{
+    position: relative;
+    bottom: 5180px;
+    left: 400px;
+}
+.img3{
+    position: relative;
+    bottom: 5080px;
+    left: 1080px;
+}
+.img4{
+    position: relative;
+    bottom: 4850px;
+    left: 500px;
+}
+
